@@ -1,12 +1,7 @@
 # Bienvenue dans le projet Labyrinthe
 
 Bienvenue dans la documentation de notre jeu **Labyrinthe**, développé en langage C. Ce projet met en avant l'utilisation de structures dynamiques, de la gestion des joueurs et du plateau, ainsi que des algorithmes d'interaction. 
-
-## 🔗 Navigation rapide
-
-- [Modules principaux](modules.html)
-- [Structures de données](annotated.html)
-- [Fichiers](files.html)
+![Capture d'écran du jeu le Labyrinthe](img/labyrinthe.jpg)
 
 ---
 
@@ -103,10 +98,4 @@ Nettoyer la documentation générer du projet avec le Makefile fourni :
    ```
 
 ---
-
-### 📋 Pour plus d'informations
-
-- Consultez [les modules et leur documentation](modules.html).
-- Explorez les [structures de données utilisées](annotated.html).
-- Parcourez [les fichiers et leur contenu](files.html).
 */
