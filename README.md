@@ -1,4 +1,4 @@
-# Bienvenue dans le projet Labyrinthe
+# 🧩 Bienvenue dans le projet Labyrinthe
 
 Bienvenue dans la documentation de notre jeu **Labyrinthe**, développé en langage C. Ce projet met en avant l'utilisation de structures dynamiques, de la gestion des joueurs et du plateau, ainsi que des algorithmes d'interaction. 
 ![Capture d'écran du jeu le Labyrinthe](img/labyrinthe.jpg)
